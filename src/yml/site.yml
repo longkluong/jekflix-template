@@ -1,13 +1,12 @@
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: Long's blog
+title: Long Luong | A diary
+description: This is a personal blog of Long Luong
 tags:
   - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - Long Luong
+  - Luong Kim Long
+  - diary
+  - personal
 show_hero: true
 menu:
   - title: Home
@@ -18,5 +17,5 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
-disqus_username: disqus_username
+email: mr.luongkimlong@gmail.com
+disqus_username: 
